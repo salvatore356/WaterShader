@@ -35,6 +35,12 @@ npm start
 ```
 This will open your browser and load the app at http://localhost:3000. You will be able to interact with the 3D scenes and navigate between different worlds using the portals.
 
+
+
+https://github.com/salvatore356/WaterShader/assets/5830312/98e1921b-cbbe-4f48-a43d-a4ecc5655d82
+
+
+
 ## Acknowledgements
 
 We would like to express our gratitude to the creators and contributors of React, Three.js, GLSL, Shadertoy and the Leva library. Their fantastic work and open-source contributions enable us to create captivating shader effects and push the boundaries of visual experiences.
