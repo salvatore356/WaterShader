@@ -45,4 +45,4 @@ https://github.com/salvatore356/WaterShader/assets/5830312/98e1921b-cbbe-4f48-a4
 
 We would like to express our gratitude to the creators and contributors of React, Three.js, GLSL, Shadertoy and the Leva library. Their fantastic work and open-source contributions enable us to create captivating shader effects and push the boundaries of visual experiences.
 
-We hope you enjoy exploring the SimpleShader repository and find inspiration to create your own stunning shader effects. Happy coding!
+We hope you enjoy exploring the WaterShader repository and find inspiration to create your own stunning shader effects. Happy coding!

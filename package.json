@@ -1,5 +1,5 @@
 {
-  "name": "basic-shader",
+  "name": "water-shader",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
