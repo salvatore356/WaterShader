@@ -12,6 +12,7 @@ function MyCustomPlane() {
   
   var uniforms = {
     u_time: { type: "f", value: 1.0 },
+    u_resolution: { type: "vec3", value: new THREE.Vector3(1, 1, 1) },
   };
 
   useFrame(({ clock }) => {
@@ -41,6 +42,7 @@ export default function WaterShader() {
         dpr={window.devicePixelRatio} 
         camera={{ position: [0.0, 0.0, 10.0] }}
     >
+      <ambientLight />
       <MyCustomPlane />
       <OrbitControls />
     </Canvas>
